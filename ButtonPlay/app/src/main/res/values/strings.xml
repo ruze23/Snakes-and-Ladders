@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Button Play</string>
+
+    <string name="R1C1">FINISH</string>
+    <string name="R1C2">59</string>
+    <string name="R1C3">58</string>
+    <string name="R1C4">57</string>
+    <string name="R1C5">56</string>
+
+
+    <string name="R2C1">51</string>
+    <string name="R2C2">52</string>
+    <string name="R2C3">53</string>
+    <string name="R2C4">54</string>
+    <string name="R2C5">55</string>
+
+
+    <string name="R3C1">50</string>
+    <string name="R3C2">49</string>
+    <string name="R3C3">48</string>
+    <string name="R3C4">47</string>
+    <string name="R3C5">46</string>
+
+
+    <string name="R4C1">41</string>
+    <string name="R4C2">42</string>
+    <string name="R4C3">43</string>
+    <string name="R4C4">44</string>
+    <string name="R4C5">45</string>
+
+    <string name="R5C1">40</string>
+    <string name="R5C2">39</string>
+    <string name="R5C3">38</string>
+    <string name="R5C4">37</string>
+    <string name="R5C5">36</string>
+
+
+    <string name="R6C1">31</string>
+    <string name="R6C2">32</string>
+    <string name="R6C3">33</string>
+    <string name="R6C4">34</string>
+    <string name="R6C5">35</string>
+
+
+    <string name="R7C1">30</string>
+    <string name="R7C2">29</string>
+    <string name="R7C3">28</string>
+    <string name="R7C4">27</string>
+    <string name="R7C5">26</string>
+
+
+    <string name="R8C1">21</string>
+    <string name="R8C2">22</string>
+    <string name="R8C3">23</string>
+    <string name="R8C4">24</string>
+    <string name="R8C5">25</string>
+
+
+    <string name="R9C1">20</string>
+    <string name="R9C2">19</string>
+    <string name="R9C3">18</string>
+    <string name="R9C4">17</string>
+    <string name="R9C5">16</string>
+
+    <string name="R10C1">11</string>
+    <string name="R10C2">12</string>
+    <string name="R10C3">13</string>
+    <string name="R10C4">14</string>
+    <string name="R10C5">15</string>
+
+    <string name="R11C1">10</string>
+    <string name="R11C2">9</string>
+    <string name="R11C3">8</string>
+    <string name="R11C4">7</string>
+    <string name="R11C5">6</string>
+
+    <string name="R12C1">START</string>
+    <string name="R12C2">2</string>
+    <string name="R12C3">3</string>
+    <string name="R12C4">4</string>
+    <string name="R12C5">5</string>
+
+    <string name="play">PLAY</string>
+    <string name="reset">RESET</string>
+
+
+</resources>
